@@ -1,0 +1,5 @@
+*~
+.svn
+*.pyc
+1/settings_local.py
+*.swp
